@@ -1,5 +1,0 @@
-exports.getContactUsPage = (req, res, next) => {
-    res.render('contactus', {
-        pageTitle: 'Contact Us'
-    });
-};
